@@ -22,13 +22,13 @@ export default Controller.extend({
             link: 'i-i-s-k-rnovyjj-акт-приемки-l',
             caption: i18n.t('forms.application.sitemap.основные-справочники.i-i-s-k-rnovyjj-акт-приемки-l.caption'),
             title: i18n.t('forms.application.sitemap.основные-справочники.i-i-s-k-rnovyjj-акт-приемки-l.title'),
-            icon: 'file',
+            icon: 'table',
             children: null
           }, {
             link: 'i-i-s-k-rnovyjj-отпуск-материала-l',
             caption: i18n.t('forms.application.sitemap.основные-справочники.i-i-s-k-rnovyjj-отпуск-материала-l.caption'),
             title: i18n.t('forms.application.sitemap.основные-справочники.i-i-s-k-rnovyjj-отпуск-материала-l.title'),
-            icon: 'folder',
+            icon: 'address card',
             children: null
           }]
         }, {
@@ -40,31 +40,31 @@ export default Controller.extend({
             link: 'i-i-s-k-rnovyjj-склад-l',
             caption: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-склад-l.caption'),
             title: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-склад-l.title'),
-            icon: 'folder open',
+            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-k-rnovyjj-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-сотрудники-l.title'),
-            icon: 'tags',
+            icon: 'address card',
             children: null
           }, {
             link: 'i-i-s-k-rnovyjj-т-н-l',
             caption: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-т-н-l.caption'),
             title: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-т-н-l.title'),
-            icon: 'table',
+            icon: 'building',
             children: null
           }, {
             link: 'i-i-s-k-rnovyjj-т-ч-акта-приемки-l',
             caption: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-т-ч-акта-приемки-l.caption'),
             title: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-т-ч-акта-приемки-l.title'),
-            icon: 'suitcase',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-k-rnovyjj-заказ-l',
             caption: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-заказ-l.caption'),
             title: i18n.t('forms.application.sitemap.второстепенные-спрвочники.i-i-s-k-rnovyjj-заказ-l.title'),
-            icon: 'tasks',
+            icon: 'folder open',
             children: null
           }]
         }
