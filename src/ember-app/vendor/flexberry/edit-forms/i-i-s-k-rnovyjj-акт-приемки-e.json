@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Акт приемки",
+  "name": "IISKRnovyjjАктПриемкиE",
+  "className": "АктПриемкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-k-rnovyjj-акт-приемки",
+      "modelProjection": "АктПриемкиE"
+    }
+  ]
+}

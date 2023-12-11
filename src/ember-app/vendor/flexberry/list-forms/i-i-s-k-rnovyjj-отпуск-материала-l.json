@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-k-rnovyjj-отпуск-материала-e",
+  "editForm": "i-i-s-k-rnovyjj-отпуск-материала-e",
+  "external": false,
+  "caption": "Отпуск материала",
+  "name": "IISKRnovyjjОтпускМатериалаL",
+  "className": "ОтпускМатериалаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-k-rnovyjj-отпуск-материала",
+      "modelProjection": "ОтпускМатериалаL"
+    }
+  ]
+}

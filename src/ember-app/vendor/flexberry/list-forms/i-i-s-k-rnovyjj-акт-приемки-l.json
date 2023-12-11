@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-k-rnovyjj-акт-приемки-e",
+  "editForm": "i-i-s-k-rnovyjj-акт-приемки-e",
+  "external": false,
+  "caption": "Акт приемки",
+  "name": "IISKRnovyjjАктПриемкиL",
+  "className": "АктПриемкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-k-rnovyjj-акт-приемки",
+      "modelProjection": "АктПриемкиL"
+    }
+  ]
+}

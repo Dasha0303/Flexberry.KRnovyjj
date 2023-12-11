@@ -1,0 +1,72 @@
+﻿{
+  "applicationCaption": "K rnovyjj",
+  "applicationTitle": "K rnovyjj",
+  "items": [
+    {
+      "link": null,
+      "menuName": "основные-справочники",
+      "caption": "Основные справочники",
+      "title": "Основные справочники",
+      "children": [
+        {
+          "link": "i-i-s-k-rnovyjj-акт-приемки-l",
+          "menuName": null,
+          "caption": "Акт приемки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-k-rnovyjj-отпуск-материала-l",
+          "menuName": null,
+          "caption": "Отпуск материала",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "второстепенные-спрвочники",
+      "caption": "Второстепенные спрвочники",
+      "title": "Второстепенные спрвочники",
+      "children": [
+        {
+          "link": "i-i-s-k-rnovyjj-склад-l",
+          "menuName": null,
+          "caption": "Склад",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-k-rnovyjj-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-k-rnovyjj-т-н-l",
+          "menuName": null,
+          "caption": "ТН",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-k-rnovyjj-т-ч-акта-приемки-l",
+          "menuName": null,
+          "caption": "Т ч акта приемки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-k-rnovyjj-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
