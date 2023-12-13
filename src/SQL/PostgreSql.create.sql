@@ -65,6 +65,14 @@ CREATE TABLE Заказ (
  PRIMARY KEY (primaryKey));
 
 
+CREATE TABLE Сотpудники (
+ primaryKey UUID NOT NULL,
+ Табель INT NULL,
+ ФИО VARCHAR(255) NULL,
+ Должность VARCHAR(255) NULL,
+ PRIMARY KEY (primaryKey));
+
+
 CREATE TABLE STORMNETLOCKDATA (
  LockKey VARCHAR(300) NOT NULL,
  UserName VARCHAR(300) NOT NULL,

@@ -13,6 +13,7 @@ moduleForModel('i-i-s-k-rnovyjj-отпуск-материала', 'Unit | Serial
     'model:i-i-s-k-rnovyjj-заказ',
     'model:i-i-s-k-rnovyjj-отпуск-материала',
     'model:i-i-s-k-rnovyjj-склад',
+    'model:i-i-s-k-rnovyjj-сотpудники',
     'model:i-i-s-k-rnovyjj-сотрудники',
     'model:i-i-s-k-rnovyjj-т-н',
     'model:i-i-s-k-rnovyjj-т-ч-акта-приемки',

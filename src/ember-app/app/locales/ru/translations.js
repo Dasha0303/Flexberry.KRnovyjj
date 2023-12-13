@@ -19,6 +19,7 @@ import IISKRnovyjjАктПриемкиModel from './models/i-i-s-k-rnovyjj-ак�
 import IISKRnovyjjЗаказModel from './models/i-i-s-k-rnovyjj-заказ';
 import IISKRnovyjjОтпускМатериалаModel from './models/i-i-s-k-rnovyjj-отпуск-материала';
 import IISKRnovyjjСкладModel from './models/i-i-s-k-rnovyjj-склад';
+import IISKRnovyjjСотpудникиModel from './models/i-i-s-k-rnovyjj-сотpудники';
 import IISKRnovyjjСотрудникиModel from './models/i-i-s-k-rnovyjj-сотрудники';
 import IISKRnovyjjТНModel from './models/i-i-s-k-rnovyjj-т-н';
 import IISKRnovyjjТЧАктаПриемкиModel from './models/i-i-s-k-rnovyjj-т-ч-акта-приемки';
@@ -32,6 +33,7 @@ $.extend(true, translations, {
     'i-i-s-k-rnovyjj-заказ': IISKRnovyjjЗаказModel,
     'i-i-s-k-rnovyjj-отпуск-материала': IISKRnovyjjОтпускМатериалаModel,
     'i-i-s-k-rnovyjj-склад': IISKRnovyjjСкладModel,
+    'i-i-s-k-rnovyjj-сотpудники': IISKRnovyjjСотpудникиModel,
     'i-i-s-k-rnovyjj-сотрудники': IISKRnovyjjСотрудникиModel,
     'i-i-s-k-rnovyjj-т-н': IISKRnovyjjТНModel,
     'i-i-s-k-rnovyjj-т-ч-акта-приемки': IISKRnovyjjТЧАктаПриемкиModel

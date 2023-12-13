@@ -105,6 +105,19 @@ CREATE TABLE [Заказ] (
 	 PRIMARY KEY ([primaryKey]))
 
 
+CREATE TABLE [Сотpудники] (
+
+	 [primaryKey] UNIQUEIDENTIFIER  NOT NULL,
+
+	 [Должность] VARCHAR(255)  NULL,
+
+	 [Табель] INT  NULL,
+
+	 [ФИО] VARCHAR(255)  NULL,
+
+	 PRIMARY KEY ([primaryKey]))
+
+
 CREATE TABLE [STORMNETLOCKDATA] (
 
 	 [LockKey] VARCHAR(300)  NOT NULL,

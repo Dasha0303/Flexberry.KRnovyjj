@@ -119,6 +119,21 @@ CREATE TABLE "Заказ"
 ) ;
 
 
+CREATE TABLE "Сотpудники"
+(
+
+	"primaryKey" RAW(16) NOT NULL,
+
+	"Табель" NUMBER(10) NULL,
+
+	"ФИО" NVARCHAR2(255) NULL,
+
+	"Должность" NVARCHAR2(255) NULL,
+
+	 PRIMARY KEY ("primaryKey")
+) ;
+
+
 CREATE TABLE "STORMNETLOCKDATA"
 (
 
